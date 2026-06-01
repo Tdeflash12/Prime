@@ -1,0 +1,91 @@
+[
+  {
+    "name": "John Doe",
+    "rating": 4.5,
+    "feedback": "Excellent service",
+    "age": 25
+  },
+  {
+    "name": "Jane Smith",
+    "rating": 5,
+    "feedback": "Loved it",
+    "age": 30
+  },
+  {
+    "name": "John Doe",
+    "rating": 4.5,
+    "feedback": "Excellent service",
+    "age": 25
+  },
+  {
+    "name": "Michael Brown",
+    "rating": null,
+    "feedback": "Good experience",
+    "age": 22
+  },
+  {
+    "name": "",
+    "rating": 3.5,
+    "feedback": "Average",
+    "age": 28
+  },
+  {
+    "name": "Sarah Wilson",
+    "rating": "Four",
+    "feedback": "Nice support",
+    "age": 27
+  },
+  {
+    "name": "David Lee",
+    "rating": 2.8,
+    "feedback": null,
+    "age": 35
+  },
+  {
+    "name": "Emma Davis",
+    "rating": 4.2,
+    "age": 24
+  },
+  {
+    "name": "Chris Johnson",
+    "rating": 1.5,
+    "feedback": "Bad service",
+    "age": null
+  },
+  {
+    "name": "Olivia Martin",
+    "rating": None,
+    "feedback": "Perfect",
+    "age": 29
+  },
+  {
+    "name": "Sophia Clark",
+    "rating": None,
+    "feedback": "Terrible",
+    "age": 31
+  },
+  {
+    "name": "Liam White",
+    "rating": 4.8,
+    "feedback": "Great",
+    "age": "Twenty Six"
+  },
+  {
+    "name": "Noah Harris",
+    "rating": "",
+    "feedback": "Satisfied",
+    "age": 40
+  },
+  {
+    "name": "Emma Davis",
+    "rating": 4.2,
+    "feedback": "Very good",
+    "age": 24
+  },
+  {
+    "name": null,
+    "rating": 3,
+    "feedback": "Okay",
+    "age": 19
+  }
+]
